@@ -10,6 +10,8 @@ VALa1Tokenizer is a custom tokenizer implementation written in Python. It provid
 
 You can install VALa1Tokenizer via pip:
 
+Here's an improved version of the instructions:
+
 ```bash
 import os
 
@@ -25,14 +27,17 @@ def run_VALa1Tokenizer():
     os.system("ls")
 
 # Example usage
-run_VALa1Tokenizer()```
+run_VALa1Tokenizer()
+```
+
+After running this code, execute the following commands in your terminal or command prompt:
 
 ```bash
-cd VALa1Tokenizer```
+cd VALa1Tokenizer
+```
 
-and after you run this code cd VALa1Tokenizer and it's shows "[Errno 2] No such file or directory: 'VALa1Tokenizer'
-/content" the Tokenizer it's available you can use it.
+If you encounter an error like `[Errno 2] No such file or directory: 'VALa1Tokenizer' /content`, it means the Tokenizer is available and you can start using it. Before using it, make sure to install any required dependencies by running:
 
 ```bash
-pip install -r requirements.txt ```
-
+pip install -r requirements.txt
+```
