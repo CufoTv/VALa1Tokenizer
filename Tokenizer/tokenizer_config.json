@@ -19,10 +19,10 @@
     },
     "errors": "replace",
     "model_max_length": 77,
-    "name_or_path": "./your_tokenizer_directory",
+    "name_or_path": "https://github.com/CufoTv/VALa1Tokenizer/tree/main/Tokenizer",
     "pad_token": "",
     "special_tokens_map_file": "./special_tokens_map.json",
-    "tokenizer_class": "YourTokenizerClass",
+    "tokenizer_class": "VALa1Tokenizer",
     "unk_token": {
         "__type": "AddedToken",
         "content": "",
