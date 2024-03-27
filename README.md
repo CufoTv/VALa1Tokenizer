@@ -2,6 +2,10 @@
 
 [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Model%20Hub-blue)](https://huggingface.co/models/dosaai/vala1tokenizer)
 
+## Info
+
+If the code doesn't work be patient edit it alone. 
+
 ## Overview
 
 VALa1Tokenizer is a custom tokenizer implementation written in Python. It provides tokenization and encoding functionalities for text processing tasks.
